@@ -14,6 +14,4 @@ Digital Talent Scholarship files
 
 Cek score project (Kalau sudah dikoreksi) klik link di [sini](https://sykrn.github.io/pydts/).
 
-## Test
-> TEST
 
